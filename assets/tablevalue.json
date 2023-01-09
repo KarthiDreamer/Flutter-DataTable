@@ -1,0 +1,84 @@
+{
+  "data": [
+{
+  "id":"1",
+  "picture": "http://placehold.it/32x32",
+  "name": "Singleton Mcdonald",
+  "gender": "male",
+  "email": "singletonmcdonald@synkgen.com",
+  "phone": "+91 (809) 498-2743",
+  "address": "315 Downing Street, Gorham, North Dakota, 4740",
+  "registered": "2016-07-22T01:43:47 -06:-30"
+},
+{
+"id":"2",
+"picture": "http://placehold.it/32x32",
+"name": "Bailey Parsons",
+"gender": "male",
+"email": "baileyparsons@synkgen.com",
+"phone": "+91 (817) 405-2152",
+"address": "273 Rutherford Place, Riegelwood, Louisiana, 3013",
+"registered": "2017-11-06T01:26:29 -06:-30"
+},
+{
+"id":"3",
+"picture": "http://placehold.it/32x32",
+"name": "Strong Moses",
+"gender": "male",
+"email": "strongmoses@synkgen.com",
+"phone": "+91 (919) 453-2165",
+"address": "403 Bay Street, Outlook, Wisconsin, 8818",
+"registered": "2020-10-29T12:45:35 -06:-30"
+},
+{
+"id":"4",
+"picture": "http://placehold.it/32x32",
+"name": "Ida Brooks",
+"gender": "female",
+"email": "idabrooks@synkgen.com",
+"phone": "+91 (802) 444-3489",
+"address": "707 John Street, Garfield, Missouri, 6897",
+"registered": "2015-12-04T08:18:56 -06:-30"
+},
+{
+"id":"5",
+"picture": "http://placehold.it/32x32",
+"name": "Finch Mcfadden",
+"gender": "male",
+"email": "finchmcfadden@synkgen.com",
+"phone": "+91 (976) 467-3867",
+"address": "787 Legion Street, Curtice, Massachusetts, 3620",
+"registered": "2020-04-22T02:36:18 -06:-30"
+},
+{
+"id":"6",
+"picture": "http://placehold.it/32x32",
+"name": "Leonor Townsend",
+"gender": "female",
+"email": "leonortownsend@synkgen.com",
+"phone": "+91 (930) 498-3206",
+"address": "906 Pulaski Street, Riceville, Alaska, 6478",
+"registered": "2017-11-10T11:55:42 -06:-30"
+},
+{
+"id":"7",
+"picture": "http://placehold.it/32x32",
+"name": "Elinor Henry",
+"gender": "female",
+"email": "elinorhenry@synkgen.com",
+"phone": "+91 (820) 401-3110",
+"address": "756 Ridge Court, Ripley, Northern Mariana Islands, 9234",
+"registered": "2020-04-30T08:58:21 -06:-30"
+},
+{
+"id":"8",
+"picture": "http://placehold.it/32x32",
+"name": "Haley Sparks",
+"gender": "male",
+"email": "haleysparks@synkgen.com",
+"phone": "+91 (961) 574-2170",
+"address": "107 Hart Street, Camptown, Kansas, 5136",
+"registered": "2019-04-28T12:26:17 -06:-30"
+}
+  ]
+}

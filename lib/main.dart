@@ -51,10 +51,13 @@ class _HomePageState extends State<HomePage> {
 
   @override
   Widget build(BuildContext context) {
+
+    //Create DataColumn List from the map
     List<DataColumn> myColumns = [
       for (var column in map["data"][0].keys) DataColumn(label: Text(column))
     ];
 
+    //Create DataRow List from the map
     List<DataRow> Rows = [];
     List<DataCell> Cells = [];
 
